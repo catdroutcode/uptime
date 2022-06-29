@@ -4,19 +4,19 @@
     "url": "https://www.catdrout.xyz",
     "icon": "https://favicons.githubusercontent.com/www.catdrout.xyz",
     "slug": "my-website",
-    "status": "down",
-    "uptime": "19.52%",
-    "uptimeDay": "19.52%",
-    "uptimeWeek": "19.52%",
-    "uptimeMonth": "19.52%",
-    "uptimeYear": "19.52%",
-    "time": 2179,
-    "timeDay": 2179,
-    "timeWeek": 2179,
-    "timeMonth": 2179,
-    "timeYear": 2179,
+    "status": "up",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 1534,
+    "timeDay": 1534,
+    "timeWeek": 1534,
+    "timeMonth": 1534,
+    "timeYear": 1534,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 31
     }
   },
   {
