@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.catdrout.xyz",
     "slug": "my-website",
     "status": "up",
-    "uptime": "81.88%",
-    "uptimeDay": "81.88%",
-    "uptimeWeek": "81.88%",
-    "uptimeMonth": "81.88%",
-    "uptimeYear": "81.88%",
+    "uptime": "87.93%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "87.93%",
     "time": 1732,
-    "timeDay": 1732,
+    "timeDay": 1776,
     "timeWeek": 1732,
     "timeMonth": 1732,
     "timeYear": 1732,
     "dailyMinutesDown": {
-      "2022-06-30": 141,
+      "2022-06-30": 128,
       "2022-06-29": 50
     }
   },
@@ -25,17 +25,19 @@
     "url": "https://viw.se/",
     "icon": "https://favicons.githubusercontent.com/viw.se",
     "slug": "enuf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 456,
+    "timeDay": 391,
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
